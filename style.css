@@ -1,0 +1,139 @@
+.titulo {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    max-width: fit-content;
+    max-height: fit-content;
+    font-weight: 900;
+    background-color: rgb(90, 107, 194);
+    border-radius: 15px;
+    padding: 9px;
+}
+.textinho {
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    background-color: rgb(173, 90, 194);
+    border-radius: 15px;
+    margin-top: 250px;
+    max-width: fit-content;
+    padding: 20px;
+}
+.textinho2 {
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    background-color: rgb(100, 90, 194);
+    border-radius: 15px;
+    margin-top: 20px;
+    max-width: 1220px;
+    max-height: 110px;
+    padding: 20px;
+    border-color: aliceblue;
+    border-style: solid;
+}
+.textinho3 {
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    background-color: rgb(32, 19, 204);
+    border-radius: 15px;
+    margin-top: 100px;
+    max-width: fit-content;
+    padding: 20px;
+    border-color: aliceblue;
+    border-style: solid;
+}
+.textinho4 {
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+    background-color: rgb(25, 22, 65);
+    border-radius: 15px;
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 100px;
+    max-width: fit-content;
+    padding: 20px;
+}
+.backIn {
+    background-image: url(https://i.redd.it/tlq6lrfkzak51.png);
+    background-size: contain;
+}
+.backHis {
+    background-image: url(https://i.pinimg.com/originals/ee/35/b9/ee35b90bab6661b5001ea5efc0cc9085.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.backCon {
+    background-image: url('https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+
+}
+.Adiv{
+    display: flex;
+    justify-content: center;
+}
+.botoes{
+    display: flex;
+    justify-content: space-evenly;
+}
+.botao{
+    background-color: cyan;
+    color: rgb(0, 0, 0);
+    font-family: 'Josefin Sans', sans-serif;
+    max-height: fit-content;
+    border-radius: 15px;
+    font-size: large;
+    padding: 20px;
+    margin-top: 40px;
+}
+.botao:hover{
+    background-color: rgb(0, 180, 180);
+}
+.botao2{
+    background-color: rgb(219, 43, 190);
+    color: rgb(0, 0, 0);
+    font-family: 'Josefin Sans', sans-serif;
+    max-height: fit-content;
+    border-radius: 15px;
+    font-size: 25px;
+    padding: 20px;
+    margin-top: 150px;
+    border-color: aliceblue;
+    border-style: solid;
+}
+.botao2:hover{
+    background-color: rgb(109, 22, 94);
+}
+.botao3{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: 'Josefin Sans', sans-serif;
+    max-height: fit-content;
+    max-width: fit-content;
+    border-radius: 15px;
+    font-size: large;
+    padding: 12px;
+    margin-top: 100px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+}
+.botao3:hover{
+    background-color: rgb(170, 170, 170);
+}
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.flex2{
+    display: flex;
+    justify-items: center;
+}
